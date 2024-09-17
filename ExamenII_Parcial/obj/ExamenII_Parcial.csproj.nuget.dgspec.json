@@ -68,7 +68,7 @@
           "dependencies": {
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.2.2, )"
+              "version": "[8.3.1, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
@@ -115,7 +115,7 @@
           "dependencies": {
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.2.2, )"
+              "version": "[8.3.1, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
@@ -162,7 +162,7 @@
           "dependencies": {
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.2.2, )"
+              "version": "[8.3.1, )"
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",

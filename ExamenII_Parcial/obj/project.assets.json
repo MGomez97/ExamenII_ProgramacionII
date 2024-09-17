@@ -2,20 +2,20 @@
   "version": 3,
   "targets": {
     "net8.0-android34.0": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "GoogleGson/2.10.1.4": {
@@ -2225,20 +2225,20 @@
       }
     },
     "net8.0-android34.0/android-arm": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "GoogleGson/2.10.1.4": {
@@ -4448,20 +4448,20 @@
       }
     },
     "net8.0-android34.0/android-arm64": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "GoogleGson/2.10.1.4": {
@@ -6671,20 +6671,20 @@
       }
     },
     "net8.0-android34.0/android-x64": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "GoogleGson/2.10.1.4": {
@@ -8894,20 +8894,20 @@
       }
     },
     "net8.0-android34.0/android-x86": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "GoogleGson/2.10.1.4": {
@@ -11117,20 +11117,20 @@
       }
     },
     "net8.0-android34.0/iossimulator-x64": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "GoogleGson/2.10.1.4": {
@@ -13340,20 +13340,20 @@
       }
     },
     "net8.0-android34.0/maccatalyst-x64": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "GoogleGson/2.10.1.4": {
@@ -15563,20 +15563,20 @@
       }
     },
     "net8.0-android34.0/win10-x64": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "GoogleGson/2.10.1.4": {
@@ -17786,20 +17786,20 @@
       }
     },
     "net8.0-ios17.5": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -18223,20 +18223,20 @@
       }
     },
     "net8.0-ios17.5/android-arm": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -18660,20 +18660,20 @@
       }
     },
     "net8.0-ios17.5/android-arm64": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -19097,20 +19097,20 @@
       }
     },
     "net8.0-ios17.5/android-x64": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -19534,20 +19534,20 @@
       }
     },
     "net8.0-ios17.5/android-x86": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -19971,20 +19971,20 @@
       }
     },
     "net8.0-ios17.5/iossimulator-x64": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -20408,20 +20408,20 @@
       }
     },
     "net8.0-ios17.5/maccatalyst-x64": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -20845,20 +20845,20 @@
       }
     },
     "net8.0-ios17.5/win10-x64": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -21282,20 +21282,20 @@
       }
     },
     "net8.0-maccatalyst17.5": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -21719,20 +21719,20 @@
       }
     },
     "net8.0-maccatalyst17.5/android-arm": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -22156,20 +22156,20 @@
       }
     },
     "net8.0-maccatalyst17.5/android-arm64": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -22593,20 +22593,20 @@
       }
     },
     "net8.0-maccatalyst17.5/android-x64": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -23030,20 +23030,20 @@
       }
     },
     "net8.0-maccatalyst17.5/android-x86": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -23467,20 +23467,20 @@
       }
     },
     "net8.0-maccatalyst17.5/iossimulator-x64": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -23904,20 +23904,20 @@
       }
     },
     "net8.0-maccatalyst17.5/maccatalyst-x64": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -24341,20 +24341,20 @@
       }
     },
     "net8.0-maccatalyst17.5/win10-x64": {
-      "CommunityToolkit.Mvvm/8.2.2": {
+      "CommunityToolkit.Mvvm/8.3.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+          "lib/net8.0/CommunityToolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         },
         "build": {
-          "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+          "buildTransitive/CommunityToolkit.Mvvm.targets": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -29113,10 +29113,10 @@
     }
   },
   "libraries": {
-    "CommunityToolkit.Mvvm/8.2.2": {
-      "sha512": "r0g0k9tGYdrnz8R7T3x5UiokDffeevzK/2P/9SBL6fqLgN8B157MIi/bVUWI1KAz6ZorZrK9AdABCWUeXZZsvA==",
+    "CommunityToolkit.Mvvm/8.3.1": {
+      "sha512": "Fuqjp5uYzHEdrRxsZlY0EqvFX9pF2v0cZN+zfso44lVLI3wZa8Nb9jdcBoXbHxiRSU3hEDhHUqh2fM8znzodzg==",
       "type": "package",
-      "path": "communitytoolkit.mvvm/8.2.2",
+      "path": "communitytoolkit.mvvm/8.3.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -29127,15 +29127,25 @@
         "analyzers/dotnet/roslyn4.0/cs/CommunityToolkit.Mvvm.SourceGenerators.dll",
         "analyzers/dotnet/roslyn4.3/cs/CommunityToolkit.Mvvm.CodeFixers.dll",
         "analyzers/dotnet/roslyn4.3/cs/CommunityToolkit.Mvvm.SourceGenerators.dll",
-        "build/netstandard2.0/CommunityToolkit.Mvvm.targets",
-        "build/netstandard2.1/CommunityToolkit.Mvvm.targets",
-        "buildTransitive/netstandard2.0/CommunityToolkit.Mvvm.targets",
-        "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets",
-        "communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+        "build/CommunityToolkit.Mvvm.FeatureSwitches.targets",
+        "build/CommunityToolkit.Mvvm.SourceGenerators.targets",
+        "build/CommunityToolkit.Mvvm.WindowsSdk.targets",
+        "build/CommunityToolkit.Mvvm.targets",
+        "buildTransitive/CommunityToolkit.Mvvm.FeatureSwitches.targets",
+        "buildTransitive/CommunityToolkit.Mvvm.SourceGenerators.targets",
+        "buildTransitive/CommunityToolkit.Mvvm.WindowsSdk.targets",
+        "buildTransitive/CommunityToolkit.Mvvm.targets",
+        "communitytoolkit.mvvm.8.3.1.nupkg.sha512",
         "communitytoolkit.mvvm.nuspec",
         "lib/net6.0/CommunityToolkit.Mvvm.dll",
         "lib/net6.0/CommunityToolkit.Mvvm.pdb",
         "lib/net6.0/CommunityToolkit.Mvvm.xml",
+        "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.dll",
+        "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.pdb",
+        "lib/net8.0-windows10.0.17763/CommunityToolkit.Mvvm.xml",
+        "lib/net8.0/CommunityToolkit.Mvvm.dll",
+        "lib/net8.0/CommunityToolkit.Mvvm.pdb",
+        "lib/net8.0/CommunityToolkit.Mvvm.xml",
         "lib/netstandard2.0/CommunityToolkit.Mvvm.dll",
         "lib/netstandard2.0/CommunityToolkit.Mvvm.pdb",
         "lib/netstandard2.0/CommunityToolkit.Mvvm.xml",
@@ -33310,21 +33320,21 @@
   },
   "projectFileDependencyGroups": {
     "net8.0-android34.0": [
-      "CommunityToolkit.Mvvm >= 8.2.2",
+      "CommunityToolkit.Mvvm >= 8.3.1",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.72",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.72",
       "Microsoft.NET.ILLink.Tasks >= 8.0.8"
     ],
     "net8.0-ios17.5": [
-      "CommunityToolkit.Mvvm >= 8.2.2",
+      "CommunityToolkit.Mvvm >= 8.3.1",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.72",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.72",
       "Microsoft.NET.ILLink.Tasks >= 8.0.8"
     ],
     "net8.0-maccatalyst17.5": [
-      "CommunityToolkit.Mvvm >= 8.2.2",
+      "CommunityToolkit.Mvvm >= 8.3.1",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.72",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.72",
@@ -33404,7 +33414,7 @@
         "dependencies": {
           "CommunityToolkit.Mvvm": {
             "target": "Package",
-            "version": "[8.2.2, )"
+            "version": "[8.3.1, )"
           },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
@@ -33451,7 +33461,7 @@
         "dependencies": {
           "CommunityToolkit.Mvvm": {
             "target": "Package",
-            "version": "[8.2.2, )"
+            "version": "[8.3.1, )"
           },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
@@ -33498,7 +33508,7 @@
         "dependencies": {
           "CommunityToolkit.Mvvm": {
             "target": "Package",
-            "version": "[8.2.2, )"
+            "version": "[8.3.1, )"
           },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
