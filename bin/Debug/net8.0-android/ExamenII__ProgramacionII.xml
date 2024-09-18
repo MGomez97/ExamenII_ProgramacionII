@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExamenII__ProgramacionII</name>
+    </assembly>
+    <members>
+        <member name="T:ExamenII__ProgramacionII.MainViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:ExamenII__ProgramacionII.MainViewModel.Producto1">
+            <inheritdoc cref="F:ExamenII__ProgramacionII.MainViewModel.producto1"/>
+        </member>
+        <member name="P:ExamenII__ProgramacionII.MainViewModel.Producto2">
+            <inheritdoc cref="F:ExamenII__ProgramacionII.MainViewModel.producto2"/>
+        </member>
+        <member name="P:ExamenII__ProgramacionII.MainViewModel.Producto3">
+            <inheritdoc cref="F:ExamenII__ProgramacionII.MainViewModel.producto3"/>
+        </member>
+        <member name="P:ExamenII__ProgramacionII.MainViewModel.Subtotal">
+            <inheritdoc cref="F:ExamenII__ProgramacionII.MainViewModel.subtotal"/>
+        </member>
+        <member name="P:ExamenII__ProgramacionII.MainViewModel.Descuento">
+            <inheritdoc cref="F:ExamenII__ProgramacionII.MainViewModel.descuento"/>
+        </member>
+        <member name="P:ExamenII__ProgramacionII.MainViewModel.Total">
+            <inheritdoc cref="F:ExamenII__ProgramacionII.MainViewModel.total"/>
+        </member>
+        <member name="M:ExamenII__ProgramacionII.MainViewModel.OnProducto1Changed(System.Decimal)">
+            <summary>Executes the logic for when <see cref="P:ExamenII__ProgramacionII.MainViewModel.Producto1"/> just changed.</summary>
+            <param name="value">The new property value that was set.</param>
+            <remarks>This method is invoked right after the value of <see cref="P:ExamenII__ProgramacionII.MainViewModel.Producto1"/> is changed.</remarks>
+        </member>
+        <member name="M:ExamenII__ProgramacionII.MainViewModel.OnProducto2Changed(System.Decimal)">
+            <summary>Executes the logic for when <see cref="P:ExamenII__ProgramacionII.MainViewModel.Producto2"/> just changed.</summary>
+            <param name="value">The new property value that was set.</param>
+            <remarks>This method is invoked right after the value of <see cref="P:ExamenII__ProgramacionII.MainViewModel.Producto2"/> is changed.</remarks>
+        </member>
+        <member name="M:ExamenII__ProgramacionII.MainViewModel.OnProducto3Changed(System.Decimal)">
+            <summary>Executes the logic for when <see cref="P:ExamenII__ProgramacionII.MainViewModel.Producto3"/> just changed.</summary>
+            <param name="value">The new property value that was set.</param>
+            <remarks>This method is invoked right after the value of <see cref="P:ExamenII__ProgramacionII.MainViewModel.Producto3"/> is changed.</remarks>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Producto1">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Producto1" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Producto2">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Producto2" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Producto3">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Producto3" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Subtotal">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Subtotal" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Descuento">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Descuento" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Total">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Total" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Producto1">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Producto1" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Producto2">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Producto2" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Producto3">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Producto3" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Subtotal">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Subtotal" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Descuento">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Descuento" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Total">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Total" generated properties.</summary>
+        </member>
+    </members>
+</doc>
