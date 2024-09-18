@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\manue\\source\\repos\\ExamenII__ProgramacionII\\ExamenII_ProgramacionII\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{802DD930-A83A-42F1-B631-84A9B1450DB4}|ExamenII__ProgramacionII.csproj|c:\\users\\manue\\source\\repos\\examenii__programacionii\\examenii_programacionii\\mainviewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802DD930-A83A-42F1-B631-84A9B1450DB4}|ExamenII__ProgramacionII.csproj|solutionrelative:mainviewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{802DD930-A83A-42F1-B631-84A9B1450DB4}|ExamenII__ProgramacionII.csproj|c:\\users\\manue\\source\\repos\\examenii__programacionii\\examenii_programacionii\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{802DD930-A83A-42F1-B631-84A9B1450DB4}|ExamenII__ProgramacionII.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,38 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\manue\\source\\repos\\ExamenII__ProgramacionII\\ExamenII_ProgramacionII\\MainViewModel\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "MainViewModel\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\manue\\source\\repos\\ExamenII__ProgramacionII\\ExamenII_ProgramacionII\\MainViewModel\\MainViewModel.cs",
-              "RelativeToolTip": "MainViewModel\\MainViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T04:29:43.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\manue\\source\\repos\\ExamenII__ProgramacionII\\ExamenII_ProgramacionII\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MauiProgram.cs",
-              "ToolTip": "C:\\Users\\manue\\source\\repos\\ExamenII__ProgramacionII\\ExamenII_ProgramacionII\\MauiProgram.cs",
-              "RelativeToolTip": "MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T04:29:34.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
